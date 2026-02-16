@@ -1,0 +1,14 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office temporary files
+~$*
+*.tmp
+
+# Personal data
+*.env
+
+# Recommendations file (not needed in repo)
+GitHub-recommendations.md
